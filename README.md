@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **anyone really**
 
-- 🤝 I’m looking for help with **open source, one day**
+- 🤝 I’m looking for help with **Typescipt**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tobennaUmeh](https://github.com/tobennaUmeh)
 
