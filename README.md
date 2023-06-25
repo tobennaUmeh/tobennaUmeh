@@ -4,19 +4,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tobennaumeh" alt="tobennaumeh" /></a> </p>
 
-- 🔭 I’m currently working on **passion project**
+- 🔭 I’m currently working on **Being a Fullstack MERN Developer**
 
 - 🌱 I’m currently learning **Typescript currently, then MERN stack for full stack JS ,then 100 Python with Dr Lisa**
 
 - 👯 I’m looking to collaborate on **anyone really**
 
-- 🤝 I’m looking for help with **Typescipt**
+- 🤝 I’m looking for help with **Typescript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tobennaUmeh](https://github.com/tobennaUmeh)
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **github: https://github.com/tobennaUmeh, email: davidtudumeh101@gmail.com**
+- 📫 How to reach me **github: https://github.com/tobennaUmeh, twitter:@tobeud, email: davidtudumeh101@gmail.com**
 
 - 📄 Know about my experiences [https://tobennaumeh.github.io/](https://tobennaumeh.github.io/)
 
