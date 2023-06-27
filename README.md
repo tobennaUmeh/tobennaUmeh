@@ -37,6 +37,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tobennaumeh&" alt="tobennaumeh" /></p>
 
+[![Tobenna's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TobennaUmeh)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
@@ -53,3 +54,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
