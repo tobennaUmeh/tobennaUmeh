@@ -1,6 +1,7 @@
 ### <<h3 align="center">I'm a Frontend React developer, really passionate about web stuff</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tobennaumeh&label=Profile%20views&color=0e75b6&style=flat" alt="tobennaumeh" /> </p>
+<a href="https://wakatime.com/@e5b122ac-8588-4bb4-980f-8a0a6611fbc2"><img src="https://wakatime.com/badge/user/e5b122ac-8588-4bb4-980f-8a0a6611fbc2.svg" alt="Total time coded since Jun 23 2023" /></a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tobennaumeh" alt="tobennaumeh" /></a> </p>
 
