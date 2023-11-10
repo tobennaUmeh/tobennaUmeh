@@ -37,9 +37,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats-taupe-three-43.vercel.app/api?username=tobennaUmeh&show_icons=true&locale=en" alt="tobennaUmeh" /></p>
 
 
-<p>[![GitHub Streak](https://streak-stats.demolab.com/?user=tobennaUmeh&theme=dark)](https://git.io/streak-stats)</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tobennaUmeh&theme=dark)](https://git.io/streak-stats)
 
-<p>[![Tobenna's wakatime stats](https://github-readme-stats-taupe-three-43.vercel.app/api/wakatime?username=tobennaUmeh)](https://github.com/anuraghazra/github-readme-stats)</p>
+[![Tobenna's wakatime stats](https://github-readme-stats-taupe-three-43.vercel.app/api/wakatime?username=tobennaUmeh)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
