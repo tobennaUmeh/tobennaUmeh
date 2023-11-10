@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Being a Fullstack MERN Developer**
 
-- 🌱 I’m currently learning **Typescript currently, then MERN stack for full stack JS ,then 100 days of code for Python :)** 
+- 🌱 I’m currently learning **Typescript, then MERN stack for full stack JS,then 100 days of code for Python :)** 
 
-- 👯 I’m looking to collaborate on **anyone really**
+- 👯 I’m looking to collaborate with **anyone really**
 
 - 🤝 I’m looking for help with **Typescript**
 
@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Front End Web Development**
 
-- 📫 How to reach me **github: https://github.com/tobennaUmeh, twitter:@tobeud, email: davidtudumeh101@gmail.com**
+- 📫 How to reach me **Github: https://github.com/tobennaUmeh, twitter:@tobeud, email: davidtudumeh101@gmail.com**
 
 - 📄 Know about my experiences [https://tobennaumeh.github.io/](https://tobennaumeh.github.io/)
 
