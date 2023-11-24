@@ -34,12 +34,12 @@
 
 <p><img align="left" src="https://github-readme-stats-taupe-three-43.vercel.app/api/top-langs?username=tobennaUmeh&show_icons=true&locale=en&layout=compact" alt="tobennaUmeh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-taupe-three-43.vercel.app/api?username=tobennaUmeh&show_icons=true&locale=en" alt="tobennaUmeh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-two-drab-14.vercel.app/api?username=tobennaUmeh&show_icons=true&locale=en" alt="tobennaUmeh" /></p>
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=tobennaUmeh&theme=dark)](https://git.io/streak-stats)
 
-[![Tobenna's wakatime stats](https://github-readme-stats-taupe-three-43.vercel.app/api/wakatime?username=tobennaUmeh)](https://github.com/anuraghazra/github-readme-stats)
+[![Tobenna's wakatime stats](https://github-readme-stats-two-drab-14.vercel.app/api/wakatime?username=tobennaUmeh)](https://github-readme-stats-two-drab-14.vercel.app)
 
 
 <!--
