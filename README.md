@@ -36,12 +36,12 @@ https://readme-stats-tobennaumeh.vercel.app/
 
 <p><img align="left" src="https://readme-stats-tobennaumeh.vercel.app//api/top-langs?username=tobennaUmeh&show_icons=true&locale=en&layout=compact" alt="tobennaUmeh" /></p>
 
-<p>&nbsp;<img align="center" src="https://readme-stats-tobennaumeh.vercel.app/api?username=tobennaUmeh&show_icons=true&locale=en" alt="tobennaUmeh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-tobennaumeh.vercel.app/api?username=tobennaUmeh&show_icons=true&locale=en" alt="tobennaUmeh" /></p>
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=tobennaUmeh&theme=dark)](https://git.io/streak-stats)
 
-[![Tobenna's wakatime stats](https://https://readme-stats-tobennaumeh.vercel.app//api/wakatime?username=tobennaUmeh)](https://readme-stats-tobennaumeh.vercel.app/)
+[![Tobenna's wakatime stats](https://https://github-readme-stats-tobennaumeh.vercel.app//api/wakatime?username=tobennaUmeh)](https://github-readme-stats-tobennaumeh.vercel.app/)
 
 
 <!--
