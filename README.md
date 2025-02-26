@@ -1,4 +1,4 @@
-### <h3 align="center">I'm a Fullstack Web Engineer[ [MERN], really passionate about web stuff</h3>
+### <h3 align="center">I'm a Fullstack Web Engineer [MERN] and UI/UX designer, really passionate about web stuff</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tobennaumeh&label=Profile%20views&color=0e75b6&style=flat" alt="tobennaumeh" /> </p>
 <a href="https://wakatime.com/@e5b122ac-8588-4bb4-980f-8a0a6611fbc2"><img src="https://wakatime.com/badge/user/e5b122ac-8588-4bb4-980f-8a0a6611fbc2.svg" alt="Total time coded since Jun 23 2023" /></a>
