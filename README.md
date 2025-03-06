@@ -47,11 +47,11 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://[github-readme-stats-tobennaumeh.vercel.app](https://github-readme-stats-git-master-tobennaumeh.vercel.app/)/api?username=tobennaUmeh&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-master-tobennaumeh.vercel.app/api?username=tobennaUmeh&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://[github-readme-stats-tobennaumeh.vercel.app](https://github-readme-stats-git-master-tobennaumeh.vercel.app/)/api/top-langs?username=tobennaUmeh&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-git-master-tobennaumeh.vercel.app/api/top-langs?username=tobennaUmeh&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
 </p>
 
 ---
