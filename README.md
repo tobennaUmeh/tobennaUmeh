@@ -62,7 +62,7 @@
 ---
 
 ## ⏳ WakaTime Coding Stats
-[![Tobenna's WakaTime Stats](https://github-readme-stats-git-master-tobennaumeh.vercel.app/api/wakatime?username=TobennaUmeh)](https://github-readme-stats-tobennaumeh.vercel.app/)
+[![Tobenna's WakaTime Stats](https://github-readme-stats-git-master-tobennaumeh.vercel.app/api/wakatime?username=@TobennaUmeh)](https://github-readme-stats-tobennaumeh.vercel.app/)
 
 ---
 
