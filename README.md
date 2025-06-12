@@ -2,8 +2,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tobennaumeh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  [![wakatime](https://wakatime.com/badge/user/e5b122ac-8588-4bb4-980f-8a0a6611fbc2.svg)](https://wakatime.com/@e5b122ac-8588-4bb4-980f-8a0a6611fbc2)
-</p>
+ <a href="https://wakatime.com/@e5b122ac-8588-4bb4-980f-8a0a6611fbc2">
+    <img src="https://wakatime.com/badge/user/e5b122ac-8588-4bb4-980f-8a0a6611fbc2.svg" alt="WakaTime Badge" />
+  </a></p>
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tobennaUmeh)](https://github.com/ryo-ma/github-profile-trophy)
 
