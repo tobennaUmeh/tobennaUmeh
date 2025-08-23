@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 - 🔭 Currently working on **Becoming a Senior Software Developer**  
-- 🌱 Learning **AWS** + **100 Days of Code (Python)**  
+- 🌱 Learning **AWS and Docker (Kubernetes)** + **100 Days of Code (Python)**  
 - 👯 Looking to collaborate with **anyone really**  
 - 🤝 Seeking help with **TypeScript**  
 - 💬 Ask me about **Frontend Web Development**  
