@@ -1,89 +1,87 @@
-# 👋 Hi, I'm Tobenna Umeh
+# 👋 Hey, I'm Tobenna Umeh
 
-### 🚀 Frontend Engineer | React • React Native • TypeScript
+💻 Frontend Engineer (React & React Native) · Fullstack Capabilities  
 
-I build scalable web and mobile applications with a strong focus on performance, clean architecture, and user experience.
+Building production-grade web and mobile applications with a focus on performance, scalability, and clean user experience.
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 What I Work On
 
-- 💼 Frontend Engineer working on fintech products at **Fidelity Bank**
-- ⚡ Strong in **React, React Native, and TypeScript**
-- 🔭 Currently focused on becoming a **Senior Software Engineer**
-- 🌱 Exploring **AWS, Docker, and Kubernetes**
-- 🧠 Passionate about **performance, scalability, and clean UI architecture**
-- 💬 Ask me about **Frontend Engineering & React ecosystems**
+- 📱 Fintech mobile applications (onboarding, KYC, API-driven flows)  
+- 🧩 Scalable frontend systems with reusable components  
+- 🌐 Fullstack platforms using MERN architecture  
+- 🔗 API integrations with proper state, error handling & edge cases  
 
 ---
 
 ## 🧰 Tech Stack
 
-### 🚀 Core
-- React / Next.js  
-- React Native  
-- TypeScript  
-- Node.js / Express  
+### 🎯 Frontend
+![React](https://img.shields.io/badge/-React-000?logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js)
+![React Native](https://img.shields.io/badge/-React_Native-000?logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?logo=typescript)
 
-### 🧠 Supporting
-- MongoDB  
-- Firebase  
-- REST APIs  
-- Git & CI/CD  
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/-Node.js-000?logo=node.js)
+![Express](https://img.shields.io/badge/-Express-000?logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=mongodb)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/-AWS-000?logo=amazonaws)
+![Docker](https://img.shields.io/badge/-Docker-000?logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?logo=kubernetes)
 
 ### 🎨 UI/UX
-- Figma  
-- Responsive Design  
-- Design Systems  
+![Figma](https://img.shields.io/badge/-Figma-000?logo=figma)
+![Design Systems](https://img.shields.io/badge/-Design_Systems-000)
+![Responsive](https://img.shields.io/badge/-Responsive_Design-000)
 
 ---
 
-## 🚀 What I’m Working On
+## 💼 Selected Work
 
-- 📱 Building fintech mobile experiences (KYC, onboarding, API integrations)
-- ⚙️ Improving frontend architecture & performance
-- ☁️ Learning cloud infrastructure (AWS + Docker + Kubernetes)
+### 🏦 Fidelity Bank — Flash
+- Mobile fintech application  
+- Onboarding & KYC flows (OTP, validation, camera capture)  
+- API integrations with robust state and error handling  
+
+### 🧠 Lexi-Bell
+- Fullstack platform (MERN)  
+- UI/UX design + backend + cloud infrastructure  
+
+### 📦 Logistat
+- Frontend web platform  
+
+### 🏍️ Abuja International Bikers Festival
+- Fullstack website  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tobennaUmeh&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tobennaUmeh&show_icons=true&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobennaUmeh&layout=compact&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobennaUmeh&layout=compact" />
+  <img src="https://streak-stats.demolab.com?user=tobennaUmeh&hide_border=true" height="150"/>
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 🎯 Focus
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=tobennaUmeh&theme=default" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-- 🏦 **Flash (Fidelity Bank)** — Mobile fintech application  
-- 🌐 **Lexi-Bell Platform** — Fullstack system + cloud infrastructure  
-- 📦 **Logistat** — Web platform  
-- 🎨 **Gradient UI** — UI/UX + frontend project  
+- 🧠 Scalable frontend architecture  
+- ⚡ Clean, maintainable code  
+- 🚀 Shipping production-ready features  
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
-- 🐦 Twitter: https://twitter.com/tobeud  
-- 💼 LinkedIn: https://www.linkedin.com/in/tobenna-umeh-2b66b8211/  
-- 🌍 Portfolio: https://tobennaumeh.github.io/  
-- 📧 Email: davidtudumeh101@gmail.com  
-
----
-
-## ⚡ Fun Fact
-
-I enjoy building products so much that I often surprise myself with what I ship 🚀
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?logo=linkedin)](https://www.linkedin.com/in/tobenna-umeh-2b66b8211/)  
+[![Twitter](https://img.shields.io/badge/-Twitter-000?logo=twitter)](https://twitter.com/tobeud)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=google-chrome)](https://tobennaumeh.github.io/)  
