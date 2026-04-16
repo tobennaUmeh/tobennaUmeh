@@ -63,7 +63,7 @@ Building production-grade web and mobile applications with a focus on performanc
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tobennaUmeh&show_icons=true&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobennaUmeh&layout=compact&count_private=true&hide_border=true&hide=javascript" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobennaUmeh&layout=compact&count_private=true&hide_border=true" />
 </p>
 
 <p align="center">
