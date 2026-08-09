@@ -84,4 +84,4 @@ Building production-grade web and mobile applications with a focus on performanc
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?logo=linkedin)](https://www.linkedin.com/in/tobenna-umeh-2b66b8211/)  
 [![Twitter](https://img.shields.io/badge/-Twitter-000?logo=twitter)](https://twitter.com/tobeud)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=google-chrome)](https://tobennaumeh.github.io/)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=google-chrome)](https://umehtobenna.com.ng/)  
